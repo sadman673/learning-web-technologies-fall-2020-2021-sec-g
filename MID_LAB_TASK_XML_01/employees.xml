@@ -1,19 +1,34 @@
 <employees>
     <employee id="1">
 	<name>John Doe</name>
-	<address>H# 38, R#3, Banani, Dhaka</address>
+	<address>
+	<flat></flat>
+	<block>H#38</block>
+	<road>R#3</road>
+	<area>Banani,Dhaka</area>
+	</address>
 	<department>Sales</department>
 	<salary>20000</salary>
     </employee>
 <employee id="2">
 	<name>Mark Zukerberg</name>
-	<address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+	<address>
+	<flat>#A/1</flat>
+	<block>H#20</block>
+	<road>R#18</road>
+	<area>Mirpur,Dhaka</area>
+	</address>
 	<department>Accounts</department>
 	<salary>12000</salary>
     </employee>
 <employee id="3">
 	<name>Ala Voski</name>
-	<address>H# 38, R#3, Motijheel</address>
+	<address>
+	<flat></flat>
+	<block>H#38</block>
+	<road>R#3</road>
+	<area>Motijheel</area>
+	</address>
 	<department>Human Resource</department>
 	<salary>30000</salary>
     </employee>
